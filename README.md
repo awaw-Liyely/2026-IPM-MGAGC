@@ -6,7 +6,7 @@ This is the code for the accepted paper:
 
 **Authors:** Ye Li, Lei Yang, Binbin Sang\*, Guoyin Wang\*
 
-**Title:**  *An Efficient Feature Selection Method using the Granular-ball Divergence-based Fuzzy Rough Hypergraph*
+**Title:**  *Multi-granularity Granular-ball Anchor Graph Clustering with Self-Weighting*
 
  **Information Processing and Management (IPM).**
 
