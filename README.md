@@ -1,11 +1,10 @@
 # 2026-IPM-MGAGC
 
-# 2026-TKDE-GBDH-FS
 **The code  will be open-sourced upon the acceptance of this paper to ensure reproducibility.**
 
 This is the code for the accepted paper:
 
-**Authors:** Ye Li, Lei Yang, Binbin Sang\*, Guoyin Wang\*, **Senior Member, IEEE**, Shuyin Xia, **Senior Member, IEEE**, Weihua Xu, and Jianhang Yu
+**Authors:** Ye Li, Lei Yang, Binbin Sang\*, Guoyin Wang\*
 
 **Title:**  *An Efficient Feature Selection Method using the Granular-ball Divergence-based Fuzzy Rough Hypergraph*
 
