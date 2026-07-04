@@ -12,7 +12,7 @@ This is the code for the accepted paper:
 
 
 
-**MGAGC.ipynb is the main function file, The reported results for all metrics (ACC, NMI, and Time) correspond to the best performance selected from all parameter trials.**
+**MGAGC.ipynb is the main function file. The reported results for all metrics (ACC, NMI, and Time) correspond to the best performance selected from all parameter trials.**
 
 If you have any questions, please connect liyely@126.com
 
