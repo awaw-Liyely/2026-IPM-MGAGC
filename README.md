@@ -8,7 +8,7 @@ This is the code for the accepted paper:
 
 **Title:**  *An Efficient Feature Selection Method using the Granular-ball Divergence-based Fuzzy Rough Hypergraph*
 
- **IEEE Transactions on Knowledge and Data Engineering (TKDE).**
+ **Information Processing and Management (IPM).**
 
 
 
