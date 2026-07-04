@@ -19,6 +19,16 @@ If you have any questions, please connect liyely@126.com
 Python dependencies
 
 
+```txt
+Python: 3.9.7
+NumPy: 1.20.3
+SciPy: 1.7.1
+Scikit-learn: 0.24.2
+Pandas: 1.3.4
+```
+
+
+
 Example Output on the **Iris** dataset:
 
 ```txt
