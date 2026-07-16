@@ -72,13 +72,3 @@ Iris completed, saved 20 results to ./experiment_results/MGAGC\Iris_MGAGC.xlsx
 
 All datasets processed! Results saved in ./experiment_results/MGAGC directory
 ```
-Python dependencies
-
-
-```txt
-Python: 3.9.7
-NumPy: 1.20.3
-SciPy: 1.7.1
-Scikit-learn: 0.24.2
-Pandas: 1.3.4
-```
